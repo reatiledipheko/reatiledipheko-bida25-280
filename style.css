@@ -67,6 +67,17 @@
     font-size: 32px;
     margin-bottom: 20px;
 }
+.programs  {
+    padding:  60px;
+    text-align: center;
+}
+.programs  {
+    backgroud: #f4f4f4;
+    margin: 20px auto;
+    padding: 20px;
+    width: 60%;
+    border-radius: 8px;
+}
 footer{
     background-color: #111;
     color: #fff;
